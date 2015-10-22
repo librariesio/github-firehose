@@ -1,0 +1,24 @@
+{
+  "name": "github-firehose",
+  "version": "1.0.0",
+  "description": "SSE GitHub Firehose",
+  "main": "app.js",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Nesbitt",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^4.7.16",
+    "body-parser": "^1.12.2",
+    "cors": "^2.5.3",
+    "debug": "^2.1.3",
+    "eventemitter3": "^0.1.6",
+    "express": "^4.12.3",
+    "serve-static": "^1.9.2"
+  }
+}
