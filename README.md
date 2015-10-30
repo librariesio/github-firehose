@@ -2,6 +2,8 @@
 
 ServerSentEvents (also known as SSE or Eventsource) firehose of [GitHub public timeline](https://developer.github.com/v3/activity/events/#list-public-events)
 
+See an example use of the stream here: https://libraries.io/github/timeline
+
 ## Setup
 
 Clone the repository
