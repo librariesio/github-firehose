@@ -30,4 +30,4 @@ Payloads mirror the event types from the GitHub Firehose, documented here: https
 
 ## Copyright
 
-Copyright (c) 2015 Andrew Nesbitt. See [LICENSE](https://github.com/librariesio/github-firehose/blob/master/LICENSE) for details.
+Copyright (c) 2016 Andrew Nesbitt. See [LICENSE](https://github.com/librariesio/github-firehose/blob/master/LICENSE) for details.
