@@ -526,9 +526,9 @@
           "resolved": "https://registry.npmjs.org/ast-types/-/ast-types-0.8.15.tgz"
         },
         "source-map": {
-          "version": "0.5.5",
+          "version": "0.5.6",
           "from": "source-map@>=0.5.0 <0.6.0",
-          "resolved": "https://registry.npmjs.org/source-map/-/source-map-0.5.5.tgz"
+          "resolved": "https://registry.npmjs.org/source-map/-/source-map-0.5.6.tgz"
         }
       }
     },
