@@ -10,6 +10,14 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librariesio/github-firehose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/librariesio/github-firehose/issues"
+  },
+  "homepage": "https://github.com/librariesio/github-firehose",
   "author": "Andrew Nesbitt",
   "license": "MIT",
   "dependencies": {
