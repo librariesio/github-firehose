@@ -424,9 +424,9 @@
       "resolved": "https://registry.npmjs.org/ms/-/ms-0.7.1.tgz"
     },
     "nan": {
-      "version": "2.3.4",
+      "version": "2.3.5",
       "from": "nan@>=2.0.2 <3.0.0",
-      "resolved": "https://registry.npmjs.org/nan/-/nan-2.3.4.tgz"
+      "resolved": "https://registry.npmjs.org/nan/-/nan-2.3.5.tgz"
     },
     "negotiator": {
       "version": "0.5.3",
