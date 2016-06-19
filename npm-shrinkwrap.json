@@ -280,7 +280,8 @@
     },
     "graceful-fs": {
       "version": "2.0.3",
-      "from": "graceful-fs@>=2.0.0 <2.1.0"
+      "from": "graceful-fs@>=2.0.0 <2.1.0",
+      "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-2.0.3.tgz"
     },
     "graceful-readlink": {
       "version": "1.0.1",
@@ -399,7 +400,8 @@
     },
     "minimatch": {
       "version": "0.2.14",
-      "from": "minimatch@>=0.2.12 <0.3.0"
+      "from": "minimatch@>=0.2.12 <0.3.0",
+      "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-0.2.14.tgz"
     },
     "minimist": {
       "version": "1.2.0",
