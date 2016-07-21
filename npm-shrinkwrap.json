@@ -63,9 +63,9 @@
       "resolved": "https://registry.npmjs.org/body-parser/-/body-parser-1.15.2.tgz"
     },
     "brace-expansion": {
-      "version": "1.1.5",
+      "version": "1.1.6",
       "from": "brace-expansion@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.5.tgz"
+      "resolved": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.6.tgz"
     },
     "bytes": {
       "version": "2.4.0",
