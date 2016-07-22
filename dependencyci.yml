@@ -1,0 +1,5 @@
+platforms:
+  NPM:
+    line-numbers:
+      tests:
+        deprecated: skip
