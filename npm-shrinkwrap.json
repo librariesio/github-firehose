@@ -93,9 +93,9 @@
       "resolved": "https://registry.npmjs.org/commoner/-/commoner-0.10.4.tgz",
       "dependencies": {
         "graceful-fs": {
-          "version": "4.1.5",
+          "version": "4.1.6",
           "from": "graceful-fs@>=4.1.2 <5.0.0",
-          "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.5.tgz"
+          "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.6.tgz"
         }
       }
     },
@@ -454,9 +454,9 @@
       "resolved": "https://registry.npmjs.org/output-file-sync/-/output-file-sync-1.1.2.tgz",
       "dependencies": {
         "graceful-fs": {
-          "version": "4.1.5",
+          "version": "4.1.6",
           "from": "graceful-fs@>=4.1.4 <5.0.0",
-          "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.5.tgz"
+          "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.6.tgz"
         }
       }
     },
