@@ -73,9 +73,9 @@
       "resolved": "https://registry.npmjs.org/etag/-/etag-1.7.0.tgz"
     },
     "eventemitter3": {
-      "version": "0.1.6",
-      "from": "eventemitter3@>=0.1.6 <0.2.0",
-      "resolved": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-0.1.6.tgz"
+      "version": "1.2.0",
+      "from": "eventemitter3@>=1.2.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-1.2.0.tgz"
     },
     "express": {
       "version": "4.14.0",
