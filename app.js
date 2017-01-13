@@ -6,6 +6,7 @@ var router       = require('./lib/router');
 var cors         = require('cors')
 
 var app = express();
+app.use(express.static('public'))
 
 var Firehose = require('./lib/github-firehose');
 
