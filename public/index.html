@@ -14,21 +14,37 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <h1>GitHub Firehose</h1>
+          <h1>
+            &#128293;
+            GitHub Firehose
+          </h1>
+          <br>
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-7">
           <div id='timeline'></div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-5">
           <h3>What is this?</h3>
           <p>
             This page is showing the real time public feed of activity on GitHub.
           </p>
           <p>
+            Start recieving events in your code with this snippet:
+          </p>
+          <pre>
+var firehose = new EventSource('http://github-firehose.libraries.io/events');
+firehose.addEventListener('event', function(evt) {
+  data = JSON.parse(evt.data);
+  console.log(data)
+});</pre>
+
+          <p>
             See the code that powers it here: <a href="https://libraries.io/github/librariesio/github-firehose">https://libraries.io/github/librariesio/github-firehose</a>
           </p>
+
+          <p>Copyright (c) 2017 Andrew Nesbitt. See <a href="https://github.com/librariesio/github-firehose/blob/master/LICENSE">LICENSE</a> for details.</p>
         </div>
       </div>
     </div>
