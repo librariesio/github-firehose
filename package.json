@@ -4,7 +4,7 @@
   "description": "SSE GitHub Firehose",
   "main": "app.js",
   "engines": {
-    "node": "7.8"
+    "node": "7.9"
   },
   "scripts": {
     "start": "node app.js",
